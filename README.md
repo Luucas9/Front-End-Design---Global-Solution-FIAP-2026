@@ -1,6 +1,6 @@
 # ORION Mission OS
 
-Plataforma premium de validacao, simulacao orbital e telemetria para missoes CubeSat.
+Plataforma de validacao, simulacao orbital e telemetria para missoes CubeSat.
 
 ![ORION Mission OS](img/space-01.jpg)
 
@@ -19,58 +19,41 @@ ORION Mission OS e uma solucao desenvolvida para democratizar o acesso a ferrame
 ## Estrutura de Pastas
 
 ```
-/orion-mission-os
+FRONT END DESIGN/
 ├── index.html
 ├── css/
 │   └── style.css
-├── js/
-│   └── script.js
 ├── img/
 │   ├── space-01.jpg
 │   ├── space-02.jpg
 │   └── space-03.jpg
 ├── integrantes.txt
-├── equipe.txt
-├── AI.md
+├── link_github.txt
 └── README.md
 ```
 
 ## Funcionalidades
 
-### Front-End Design
-- Menu funcional com navegacao suave
+- Menu funcional com navegacao entre as secoes
 - 6 secoes: Problema, Tecnologia, Objetivos, Publico-Alvo, Beneficios, Aplicacao
-- Rodape com dados da equipe
+- Rodape com primeiro nome e RM dos integrantes
 - Layout responsivo (Desktop, Tablet, Mobile)
-- Flexbox e CSS Variables
-- Reset CSS e identidade visual consistente
-
-### Web Development
-- **Slideshow** — Carrossel automatico com 3 imagens, botoes anterior/proximo e indicadores
-- **Formulario de Missao** — Validacao JavaScript (campos obrigatorios, email, valores positivos)
-- **Quiz Espacial** — 10 perguntas sobre industria espacial com pontuacao e desempenho
-- **Troca de Tema** — 3 temas (Mission Control, Deep Space, Nebula) com persistencia via localStorage
-- **Animacoes** — Scroll reveal, hover effects, fade in, smooth scrolling
-
-## Temas Disponiveis
-
-1. **Mission Control** — Ciano e indigo sobre fundo escuro (padrao)
-2. **Deep Space** — Tons de violeta e azul profundo
-3. **Nebula** — Gradientes roxo e magenta cosmicos
+- Flexbox, CSS Variables e Reset CSS
+- Google Fonts (Orbitron, Inter)
+- Imagens com atributo alt e identidade visual consistente
 
 ## Como Executar
 
 1. Clone ou baixe o projeto
-2. Abra a pasta `orion-mission-os` no VS Code
+2. Abra a pasta `FRONT END DESIGN` no VS Code
 3. Abra o arquivo `index.html` no navegador (Live Server ou duplo clique)
 
-Nao requer instalacao de dependencias — projeto 100% HTML, CSS e JavaScript puro.
+Nao requer instalacao de dependencias — projeto 100% HTML e CSS.
 
 ## Tecnologias
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
 - Google Fonts (Orbitron, Inter)
 
 ## Paleta de Cores
@@ -81,13 +64,11 @@ Nao requer instalacao de dependencias — projeto 100% HTML, CSS e JavaScript pu
 | Fundo secundario | `#0B1020` |
 | Cards | `#111827` |
 | Accent ciano | `#00D4FF` |
-| Accent indigo | `#4F46E5` |
 | Texto | `#FFFFFF` |
 
-## Disciplinas FIAP
+## Disciplina FIAP
 
 - Front-End Design
-- Web Development
 
 ## Licenca
 
