@@ -45,7 +45,7 @@ FRONT END DESIGN/
 ## Como Executar
 
 1. Clone ou baixe o projeto
-2. Abra a pasta `FRONT END DESIGN` no VS Code
+2. Abra a pasta clonada do repositório no VS Code
 3. Abra o arquivo `index.html` no navegador (Live Server ou duplo clique)
 
 Nao requer instalacao de dependencias — projeto 100% HTML e CSS.
